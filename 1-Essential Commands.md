@@ -1,7 +1,11 @@
 1-Essential Commands
-[Log into local & remote graphical and text mode consoles](./1/a.md)
-Search for files
-Evaluate and compare the basic file system features and options
+
+[Log into local & remote graphical and text mode consoles](./1/1a.md)
+
+[Search for files](./1/1b.md)
+
+[Evaluate and compare the basic file system features and options](./1/1c.md)
+
 Compare and manipulate file content
 Use input-output redirection (e.g. >, >>, |, 2>)
 Analyze text using basic regular expressions
