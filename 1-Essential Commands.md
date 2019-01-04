@@ -1,5 +1,4 @@
-1-Essential Commands
-
+1 - Essential Commands
 - [Log into local & remote graphical and text mode consoles](./1/1a.md)
 - [Search for files](./1/1b.md)
 - [Evaluate and compare the basic file system features and options](./1/1c.md)
