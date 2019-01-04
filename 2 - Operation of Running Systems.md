@@ -1,0 +1,18 @@
+2 - Operation of Running Systems
+- [Boot, reboot, and shut down a system safely](./2/2a.md)
+- [Boot or change system into different operating modes](./2/2b.md)
+- [Install, configure and troubleshoot bootloaders](./2/2c.md)
+- [Diagnose and manage processes](./2/2d.md)
+- [Locate and analyze system log files](./2/2e.md)
+- [Schedule tasks to run at a set date and time](./2/2f.md)
+- [Verify completion of scheduled jobs](./2/2g.md)
+- [Update software to provide required functionality and security](./2/2h.md)
+- [Verify the integrity and availability of resources](./2/2i.md)
+- [Verify the integrity and availability of key processes](./2/2j.md)
+- [Change kernel runtime parameters, persistent and non-persistent](./2/2k.md)
+- [Use scripting to automate system maintenance tasks](./2/2k.md)
+- [Manage the startup process and services (In Services Configuration)](./2/2m.md)
+- [List and identify SELinux/AppArmor file and process contexts](./2/2n.md)
+- [Manage Software](./2/2o.md)
+- [Identify the component of a Linux distribution that a file belongs to](./2/2p.md)
+
